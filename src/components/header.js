@@ -8,9 +8,9 @@ const Header = ({ siteCity, siteState }) => (
       <Link to="/">
         <span>{siteCity}</span>
         <br />
-        <span>Service</span>
+        <span>Destek</span>
         <br />
-        <span>Relief</span>
+        <span>Kampanyaları</span>
       </Link>
     </h1>
   </header>

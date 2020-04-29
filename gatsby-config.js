@@ -4,7 +4,7 @@ module.exports = {
     description: `A list of local service-industry businesses and their fundraisers to help them get through the local shutdowns.`,
     author: `@boborchard`,
     state: "{state name}",
-    city: "istanbul",
+    city: "Covid-19",
   },
   plugins: [
     `gatsby-plugin-postcss`,

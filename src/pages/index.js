@@ -21,7 +21,7 @@ const IndexPage = () => {
       <SEO title="Ana sayfa" />
       <div className="mb-20">
         <p className="text-lg mb-8">
-          Covid-19 nedeniyle zor zamanlar geçiren İstanbul'daki kurum ve işletmelerin 
+          Covid-19 nedeniyle zor zamanlar geçiren kurum ve işletmelerin 
           listelendiği site. Site üzerinden bağış alınmamaktadır, sadece varolan kampanyaların
           bağlantıları paylaşılmaktadır.
 
