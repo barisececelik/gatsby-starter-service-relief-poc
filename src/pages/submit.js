@@ -6,25 +6,23 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Submit a Fundraiser" />
+    <SEO title="Kampanya gönder" />
 
     <p className="mb-10">
       <Link
         to="/"
         className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow"
       >
-        &larr; View All Fundraisers
+        &larr; Tüm kampanyaları gör
       </Link>
     </p>
     <h1 className="text-xl font-bold mb-4">Hi there!</h1>
     <p>
-      To submit a fundraiser to be published on the site, please fill out the
-      form below. We will review them as they come in and let you know when your
-      link has been added to the site.
+      Sitede yayınlanmak üzere kampanya göndermek için aşağıdaki formu kullanabilirsin. Gözden geçirdikten sonra siteye ekleyeceğiz.
     </p>
     <iframe
       className="mt-10"
-      src="https://docs.google.com/forms/d/e/1FAIpQLSdWyi2VJbpzrG4Cudn-ULaoPtBbmWHtZaCWwAyblP6WkJEf9g/viewform?embedded=true"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSd2wiilTt5esK-6qIE_vxfHHpCy2YoMi01IzfJJqnwcHU_73g/viewform?embedded=true"
       width="100%"
       height="1000"
       frameborder="0"
@@ -33,7 +31,7 @@ const SecondPage = () => (
     >
       Loading…
     </iframe>
-    <Link to="/">Go back to the homepage</Link>
+    <Link to="/">Ana sayfaya dön</Link>
   </Layout>
 )
 

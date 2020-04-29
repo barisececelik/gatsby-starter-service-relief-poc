@@ -18,13 +18,13 @@ const IndexPage = () => {
   `)
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Ana sayfa" />
       <div className="mb-20">
         <p className="text-lg mb-8">
-          A directory of fundraisers for {data.site.siteMetadata.city} bars,
-          venues, restaurants, and service businesses that can use our help to
-          support their staff during the state-mandated shutdown. A
-          work-in-progress.
+          Covid-19 nedeniyle zor zamanlar geçiren İstanbul'daki kurum ve işletmelerin 
+          listelendiği site. Site üzerinden bağış alınmamaktadır, sadece varolan kampanyaların
+          bağlantıları paylaşılmaktadır.
+
         </p>
         <p className="text-lg mb-8">
           Jump to:{" "}
@@ -54,7 +54,7 @@ const IndexPage = () => {
 
       <div className="mb-10 border shadow p-6">
         <h2 className="text-xl font-bold">
-          Featured: COVID-19 Solidarity Response Fund for WHO
+          Öne çıkan: COVID-19 Solidarity Response Fund for WHO
         </h2>
 
         <p className="mt-4">
