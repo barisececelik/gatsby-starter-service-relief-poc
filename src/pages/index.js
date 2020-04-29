@@ -77,24 +77,23 @@ const IndexPage = () => {
 
       <div className="mb-10">
         <h2 id="support" className="text-xl font-bold">
-          Support Seattle
+          İstanbul'a destek ol
         </h2>
 
         <ul className="list-disc pl-6 mt-4">
           <li>
             <a
               className="underline"
-              href="https://www.gofundme.com/f/seattle-hospitality-emergency-fund"
+              href="https://fongogo.com/Project/dayanismanin-ev-hali-4"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Seattle Hospitality Emergency Fund
+              Dayanışmanın ev hali
             </a>{" "}
             <p className="mt-2 italic">
-              Team fundraiser by Jessica Tousignant and Candace Whitney Morris
-              to help provide emergency relief to those workers whose hours have
-              been curtailed because of this crisis and who are not being
-              otherwise compensated.
+              Covid-19 dolayısıyla evde kalan Sur'da yaşayan çocuklarla 
+              telekonferans yöntemi ile atölyeler yapacağız. 
+              Gerekli kırtasiye malzemeleri için dayanışma çağrısı.
             </p>
           </li>
         </ul>
