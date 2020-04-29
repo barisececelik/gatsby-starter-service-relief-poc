@@ -48,7 +48,7 @@ const IndexPage = () => {
           to="/submit"
           className="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow"
         >
-          Suggest an addition &rarr;
+          Kampanya gönder &rarr;
         </Link>
       </div>
 
@@ -70,7 +70,7 @@ const IndexPage = () => {
             href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
             target="_blank"
           >
-            Donate Here
+            Bağış sitesine git
           </a>
         </p>
       </div>
