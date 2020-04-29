@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `{City} Service Relief`,
+    title: `{City} covid-19 destek çağrıları`,
     description: `A list of local service-industry businesses and their fundraisers to help them get through the local shutdowns.`,
     author: `@boborchard`,
     state: "{state name}",
-    city: "{city name}",
+    city: "İstanbul",
   },
   plugins: [
     `gatsby-plugin-postcss`,
